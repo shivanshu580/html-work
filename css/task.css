@@ -1,0 +1,20 @@
+.image{
+	
+	height:200px;
+	width:185px; 
+	margin: auto;
+	overflow: hidden;
+}
+.image img:hover{
+	
+	width: 192px;
+	height: 205px;
+}
+.card{
+	    border-radius: 1.25rem;
+	box-shadow:  1px 1px 45px #e0e0e0;
+}
+
+a{
+	margin:25px;
+}

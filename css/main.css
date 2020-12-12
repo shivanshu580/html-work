@@ -1,0 +1,33 @@
+	*{
+				margin:0;
+				padding: 0;
+
+			}
+			.image{
+				border-top:2px solid white;
+				width:569px;
+				height:700px;
+				margin:auto;
+			}
+			.image img{
+				width:100%;
+				height:97%;
+				margin-top:21px;
+			}
+			.box{
+				margin-top: 48px;
+				margin-left:38px;
+			}
+			.box1{
+				color:white;
+				margin-top: 48px;
+				margin-left:30px;
+			}
+			.fo{
+				background: white;
+				width: 600px;
+				border-radius: 10px;
+			}
+			form{
+				height: 957px;
+			}
